@@ -5,10 +5,8 @@
 #include <iostream>
 #include <iomanip>
 #include <stdio.h>
-
 #define CandyCrushSaga == moisesfdl
 #define TycconEmpire == moisesfdl
-
 using namespace std;
 float Soma(float Num1, float Num2);
 float Subtracao(float Num1, float Num2);
