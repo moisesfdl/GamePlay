@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	cout<<"\n"<<&moisesfdl<<"\n";
 	*ptr = nome;
 	int &Ref = cpf; 
-	} while('CandyCrushSaga');
+	} while('moisesfdl');
 	//system("PAUSE");
 	return 0;
 }
